@@ -1,8 +1,9 @@
-# Welcome to my GitHub!  
-### Hey there! I'm **Griffin Benitez**, a Computer Engineering student at **SDSU** working on my **Senior Design Project**.  
-Outside of school, I'm a **performer in San Diego**, but my goal is to **work for a Japanese company and move to Osaka**.  
+<div align="center">
+ <b>Welcome to my GitHub!</b>  
+Hey there! I'm Griffin Benitez, a Computer Engineering student at SDSU currently working on my Senior Design Project.  
+Outside of school I'm a performer in San Diego, but my goal is to work for a Japanese company and move to Osaka.  
 Thanks for stopping by—check out my projects below!  
-
+</div>
 ---
 
 <details>
